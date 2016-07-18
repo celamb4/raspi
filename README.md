@@ -1,4 +1,6 @@
-raspi
+RPi tank scripts
 =====
 
-reef tank
+Retrieve data from arduino and log in to sqlite DB.
+Update web image available.
+
